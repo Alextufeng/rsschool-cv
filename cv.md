@@ -79,6 +79,7 @@ function dataReverse(data) {
 ## My Projects
 
 My projects from JS/FE Pre-School:
++ [Shelter](https://rolling-scopes-school.github.io/alextufeng-JSFE2022Q1/shelter/pages/main/)
 + [Portfolio](https://rolling-scopes-school.github.io/alextufeng-JSFEPRESCHOOL/portfolio/)
 + [Photo Gallery](https://rolling-scopes-school.github.io/alextufeng-JSFEPRESCHOOL/js30task2part2)
 + [Memory Game](https://rolling-scopes-school.github.io/alextufeng-JSFEPRESCHOOL/js30task3part2)
