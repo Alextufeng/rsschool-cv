@@ -1,4 +1,3 @@
-## https://alextufeng.github.io/rsschool-cv/cv
+## [Markdown CV](https://alextufeng.github.io/rsschool-cv/cv)
 
-## https://alextufeng.github.io/rsschool-cv/
-
+## [HTML/CSS CV](https://alextufeng.github.io/rsschool-cv/)
